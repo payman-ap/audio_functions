@@ -1,0 +1,10 @@
+# Ignore compiled binaries
+main
+cpp_audio
+
+
+# Ignore audio files
+*.wav
+
+# Ignore VSCode settings (optional)
+.vscode/
